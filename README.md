@@ -6,6 +6,8 @@ detOs       - check running os<br>
 dict_sort   - sorting by one of dict key<br>
 getFileList - get file list in folder<br>
 isDate      - checking date type string is included in text<br>
+showDir     - show subfolders size list<br>
 sort        - some sorting algorizms<br>
+
 <br>
 This software is released under the MIT License, see LICENSE.txt.
