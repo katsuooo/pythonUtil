@@ -1,0 +1,18 @@
+win32_element_info.HwndElementInfo - '', Shell_TrayWnd
+win32_element_info.HwndElementInfo - 'pywinautoTest.py - pythonUtil - Visual Studio Code', Chrome_WidgetWin_1
+win32_element_info.HwndElementInfo - 'python app acrive controle - Google Search - Google Chrome', Chrome_WidgetWin_1
+win32_element_info.HwndElementInfo - 'What is pywinauto — pywinauto 0.6.8 documentation - Google Chrome', Chrome_WidgetWin_1
+win32_element_info.HwndElementInfo - 'SetForegroundWindow function (winuser.h) - Win32 apps | Microsoft Docs - Google Chrome', Chrome_WidgetWin_1
+win32_element_info.HwndElementInfo - 'pythonUtil', CabinetWClass
+win32_element_info.HwndElementInfo - 'コマンド プロンプト', ConsoleWindowClass
+win32_element_info.HwndElementInfo - '', Windows.UI.Core.CoreWindow
+win32_element_info.HwndElementInfo - '', ApplicationFrameWindow
+win32_element_info.HwndElementInfo - 'Microsoft Store', ApplicationFrameWindow
+win32_element_info.HwndElementInfo - '', ApplicationFrameWindow
+win32_element_info.HwndElementInfo - '', EdgeUiInputTopWndClass
+win32_element_info.HwndElementInfo - '', DummyDWMListenerWindow
+win32_element_info.HwndElementInfo - '', DummyDWMListenerWindow
+win32_element_info.HwndElementInfo - '', DummyDWMListenerWindow
+win32_element_info.HwndElementInfo - 'Microsoft Text Input Application', Windows.UI.Core.CoreWindow
+win32_element_info.HwndElementInfo - 'App.vue - selector - Visual Studio Code', Chrome_WidgetWin_1
+win32_element_info.HwndElementInfo - 'Program Manager', Progman
