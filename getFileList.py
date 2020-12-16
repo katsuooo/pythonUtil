@@ -4,6 +4,15 @@ import os
 class getFileList:
     def __init__(self):
         pass
+    def getFullFileNamesFromFolder(self, dirName):
+        '''ディレクトリ内のファイル名リストを返す'''
+        '''include sub directory files'''
+        '''include extention'''
+        labels = []
+        for root, dirs, files in os.walk(dirName):  
+            for f in files:
+                labels.append(f)
+        return labels
     def getFileNamesFromFolder(self, dirName):
         '''ディレクトリ内のファイル名リストを返す'''
         '''include sub directory files'''
